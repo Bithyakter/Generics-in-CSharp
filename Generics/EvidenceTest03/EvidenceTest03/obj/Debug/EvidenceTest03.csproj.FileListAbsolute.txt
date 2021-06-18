@@ -1,0 +1,7 @@
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\bin\Debug\EvidenceTest03.exe.config
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\bin\Debug\EvidenceTest03.exe
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\bin\Debug\EvidenceTest03.pdb
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\obj\Debug\EvidenceTest03.csprojAssemblyReference.cache
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\obj\Debug\EvidenceTest03.csproj.CoreCompileInputs.cache
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\obj\Debug\EvidenceTest03.exe
+E:\C#\All Evidence\EvidenceTest03\EvidenceTest03\obj\Debug\EvidenceTest03.pdb
